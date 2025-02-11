@@ -1,7 +1,11 @@
 Test Automation Framework
+
+
+
 This project includes Selenium automation tests to validate the functionality of the registration and login pages on the website Automaticity Academy. Additionally, it covers API interactions and the shopping workflow to ensure a seamless user experience.
 
 Test Scenarios for the Registration Page
+
 Positive Test Cases
 1. Validate the registration functionality using valid credentials.
 2. Validate registration by entering valid inputs in the Username field.
