@@ -39,5 +39,5 @@ Negative Test Cases
 6. Validate negative boundary values in the Password field.
    
 API Testing (Postman) This project includes API test cases using Postman to verify API interactions. The shopping workflow is tested to ensure a smooth purchasing experience.
-API ACCESS - https://postman-damian.postman.co/workspace/New-Team-Workspace~b2c0dcd8-de51-4170-a0e0-34194c712677/request/39176518-519ddca3-5e6f-4975-b4e0-4be6e7c74f02?action=share&creator=39176518&ctx=documentation
+API ACCESS - https://postman-damian.postman.co/workspace/New-Team-Workspace~b2c0dcd8-de51-4170-a0e0-34194c712677/request/39176518-519ddca3-5e6f-4975-b4e0-4be6e7c74f02?action=share&creator=39176518&ctx=documentation - Access to this email has been approved for the editor - andrija.perovic@automaticity.rs
 Contact Information 📌 GitHub: [Damjan Gligorovic](https://github.com/DamjanGligorovic/automaticity/) 📧 Email: damjangligorovic@hotmail.com 🔗 LinkedIn: linkedin.com/in/damjan-gligorovic-0b0898141
