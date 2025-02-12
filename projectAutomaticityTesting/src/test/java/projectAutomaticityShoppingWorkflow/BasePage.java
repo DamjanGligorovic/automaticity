@@ -18,7 +18,7 @@ public class BasePage {
 	public void initialization() {
 		driver = new ChromeDriver();
 		driver.manage().window().maximize();
-		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(25));
 		driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(20));
 		bookPage = new LoginPage (driver);
 		testData = new TestPage();

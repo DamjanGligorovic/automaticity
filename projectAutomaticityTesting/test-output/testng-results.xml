@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="9" total="10" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-12T00:52:08 CET" name="Default suite" finished-at="2025-02-12T00:52:13 CET" duration-ms="4925">
+    <groups>
+    </groups>
+    <test started-at="2025-02-12T00:52:08 CET" name="Default test" finished-at="2025-02-12T00:52:13 CET" duration-ms="4925">
+      <class name="projectAutomaticity.TestPage">
+        <test-method is-config="true" signature="initialization()[pri:0, instance:projectAutomaticity.TestPage@5c5eefef]" started-at="2025-02-12T00:52:08 CET" name="initialization" finished-at="2025-02-12T00:52:10 CET" duration-ms="1779" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method is-config="true" signature="navigation()[pri:0, instance:projectAutomaticity.TestPage@5c5eefef]" started-at="2025-02-12T00:52:10 CET" name="navigation" finished-at="2025-02-12T00:52:12 CET" duration-ms="1524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigation -->
+        <test-method signature="testCase10()[pri:0, instance:projectAutomaticity.TestPage@5c5eefef]" started-at="2025-02-12T00:52:12 CET" name="testCase10" finished-at="2025-02-12T00:52:13 CET" duration-ms="1468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase10 -->
+        <test-method is-config="true" signature="deleteCookie()[pri:0, instance:projectAutomaticity.TestPage@5c5eefef]" started-at="2025-02-12T00:52:13 CET" name="deleteCookie" finished-at="2025-02-12T00:52:13 CET" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCookie -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:projectAutomaticity.TestPage@5c5eefef]" started-at="2025-02-12T00:52:13 CET" name="closeDriver" finished-at="2025-02-12T00:52:13 CET" duration-ms="102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- projectAutomaticity.TestPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
