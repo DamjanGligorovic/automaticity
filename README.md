@@ -19,7 +19,9 @@ Negative Test Cases
 3. Validate registration by entering invalid inputs in the Password field.
 4. Validate the registration functionality by clicking directly on the Register button without providing inputs.
    
-Test Scenarios for the Login Page Positive Test Cases
+Test Scenarios for the Login Page 
+
+Positive Test Cases
 
 1. Validate the login functionality using valid credentials.
 2. Validate the password recovery functionality using a valid email address.
